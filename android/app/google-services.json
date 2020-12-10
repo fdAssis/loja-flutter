@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558758952949",
+    "project_id": "loja-9c24e",
+    "storage_bucket": "loja-9c24e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558758952949:android:73d479a79e12b327232abc",
+        "android_client_info": {
+          "package_name": "br.com.fdAssis.loja.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558758952949-uf4npgfqalhkj3084787u84kou2s7t8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIvhWFyXahqqnpI8Q-hs4fyRdFwIzIwl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558758952949-uf4npgfqalhkj3084787u84kou2s7t8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
